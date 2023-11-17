@@ -1,4 +1,7 @@
 # Mission To Mars Web Scraping Challenge
+
+This repo contains the full web-scraping and data analysis project for Module 11 Challenge of UC Berkeley Extensions Data Analysis Bootcamp
+
 ## Requirements
 1. Scrape titles and preview text from Mars News
     1. Automate browsing (with Splinter) to visit the Mars news site, and extract the HTML code (with Beautiful Soup).
